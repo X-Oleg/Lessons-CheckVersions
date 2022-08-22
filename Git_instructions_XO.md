@@ -1,0 +1,16 @@
+# This is my chort comment to Git
+
+* git --version            *(check install git)*
+* git --init               *(create repozitory DIR)*
+
+* git status                *(check current status)*
+* git add ./file_name.ext   *(add file to contol GIT)*
+* git add .                 *(add all files to control GIT)*
+    !!! - ONLY after save files
+* git commit -m "message"   *(create comment for last updete)*
+* git log                   *(show all information about work)*
+    Q - return to terminal
+
+* git checout ...number     *(go to version Number...(min 4 ))*
+* git checout master        *(return to last version file)*
+* git diff                  *(show difference beetwin files)*
