@@ -18,6 +18,15 @@
 
 ## From lesson 2
 
+* git branch                *(show names of branches)*
+* git branch new_name       *(create new branch with new_name)*
+* git checkout new_name     *(go to new_branch)*
+* git checkout master       *(return to master branch)*
+* git merge new_name        *(merge (add) data from new_branch to current branch)*
+* git -d old_branch         *(delete old_branch after merge)*
+* git -D old_branch         *(delete old_branch without merge)*
+* git log - graph           *(show graph with branches)
+
 ## From lesson 3
 
 # Инструкция для работы с MarkDown
