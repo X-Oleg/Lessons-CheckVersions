@@ -9,6 +9,7 @@
 * git add .                 *(add all files to control GIT)*
     !!! - ONLY after save files
 * git commit -m "message"   *(create comment for last updete)*
+* git commit -a -m "message" *(add + commit)*
 * git log                   *(show all information about work)*
     Q - return to terminal
 
@@ -26,6 +27,7 @@
 * git -d old_branch         *(delete old_branch after merge)*
 * git -D old_branch         *(delete old_branch without merge)*
 * git log - graph           *(show graph with branches)
+* .gitignore                *(create file in repository + write file names in __.gitignore__)*
 
 ## From lesson 3
 
