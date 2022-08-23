@@ -1,4 +1,5 @@
 # This is my chort comments to Git
+## From lesson 1
 
 * git --version            *(check install git)*
 * git --init               *(create repozitory DIR)*
@@ -14,3 +15,24 @@
 * git checout ...number     *(go to version Number...(min 4 ))*
 * git checout master        *(return to last version file)*
 * git diff                  *(show difference beetwin files)*
+
+## From lesson 2
+
+## From lesson 3
+
+# Инструкция для работы с MarkDown
+
+## Выделение текста
+
+## Списки
+
+## Работа с изображениями
+
+## Ссылки
+
+## Работа с таблицами
+
+## Цитаты
+
+## Заключение
+
