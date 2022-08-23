@@ -1,4 +1,4 @@
-# This is my chort comment to Git
+# This is my chort comments to Git
 
 * git --version            *(check install git)*
 * git --init               *(create repozitory DIR)*
