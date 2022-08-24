@@ -1,4 +1,5 @@
 # This is my chort comments to Git
+
 ## From lesson 1
 
 * git --version            *(check install git)*
@@ -47,6 +48,7 @@
 * git push - отправлять на GitHub или
 * git pull - забирать с GitHub (одновременно сливает ветки)
 
+
 ### Как сделать pull request
 
 * Делаем fork репозитория на свой аккаунт
@@ -57,7 +59,9 @@
 * На сайте GitHub нажимаем кнопку Compare & pull request и затем Create pull request
 
 
+
 # Инструкция для работы с MarkDown
+
 
 ## Выделение текста
 
